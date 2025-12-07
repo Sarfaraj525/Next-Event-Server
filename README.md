@@ -8,8 +8,8 @@ A robust, secure, JWT-protected RESTful API backend that powers the Next Event P
 
 ## 📚 Repositories
 
-- **Frontend Repository:** [Next-Event-Client]()
-- **Backend Repository:** [Next-Event-Server]()
+- **Frontend Repository:** [Next-Event-Client](https://github.com/Sarfaraj525/Next-Event-Client)
+- **Backend Repository:** [Next-Event-Server](https://github.com/Sarfaraj525/Next-Event-Server)
 
 ## 📖 Project Overview
 
