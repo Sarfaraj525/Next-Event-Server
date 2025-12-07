@@ -8,8 +8,8 @@ A robust, secure, JWT-protected RESTful API backend that powers the Next Event P
 
 ## 📚 Repositories
 
-- **Frontend Repository:** [Next-Event-Client](https://github.com/sumon-ray/Next-Event-Client)
-- **Backend Repository:** [Next-Event-Server](https://github.com/sumon-ray/Next-Event-Server)
+- **Frontend Repository:** [Next-Event-Client]()
+- **Backend Repository:** [Next-Event-Server]()
 
 ## 📖 Project Overview
 
@@ -300,9 +300,8 @@ All API responses follow a consistent format:
 
 ## 📧 Contact Information
 
-- **Email:** [sumonray146371@gmail.com](mailto:sumonray146371@gmail.com)
-- **Portfolio:** [https://sumon-ray.vercel.app/](https://sumon-ray.vercel.app/)
-- **LinkedIn:** [https://www.linkedin.com/in/sumon60/](https://www.linkedin.com/in/sumon60/)
+- **Email:** [sarfarajeee525@gmail.com]
+
 
 ## 🚀 Getting Started
 
@@ -316,7 +315,7 @@ All API responses follow a consistent format:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/sumon-ray/Next-Event-Server.git
+git clone 
 cd Next-Event-Server
 ```
 
@@ -464,6 +463,6 @@ This project is created for portfolio purposes and professional demonstration.
 
 ---
 
-**Created with ❤️ by Sumon Ray**
+**Created with ❤️ by sarfaraj nawaz chowdhury**
 
 *This backend demonstrates production-ready API development, secure payment integration, and scalable architecture patterns for modern web applications.*
