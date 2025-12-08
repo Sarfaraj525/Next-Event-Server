@@ -377,8 +377,8 @@ The server will start on `http://localhost:5000`
 ```json
 {
   "admin": {
-    "email": "admin@nextevent.com",
-    "password": "admin123"
+    "email": "admin2@gmail.com",
+    "password": "Admin@123"
   },
   "user": {
     "email": "user@nextevent.com",
